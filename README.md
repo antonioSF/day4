@@ -3,4 +3,4 @@
 
 ## 4th Day
 
-Website custom template
+Webpack configuration
